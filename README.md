@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Sinchana Gupta!
 
-I'm a passionate data scientist and engineer, currently pursuing my **M.S. in Data Science** at the **University of Maryland, College Park** 🎓.  
+I'm a passionate data scientist and engineer, with a master's in **Data Science** from the **University of Maryland, College Park** 🎓.  
 I have hands-on experience in building data-driven solutions and deploying impactful machine learning models, with a focus on practical applications across industries like manufacturing and customer analytics.
 
 ---
