@@ -49,7 +49,7 @@ I specialize in building **end-to-end AI/ML pipelines**, integrating **LLMs and 
 - **Connyct Inc.** - Integrated LLMs into enterprise workflows, built data pipelines with Redis + cloud (AWS/GCP), and delivered real-time client-facing AI solutions.  
 - **Mann+Hummel** - Built 10+ dashboards and automated ETL pipelines, improving data accuracy by 30% and saving 15+ hours/week.  
 - **Accenture** - Developed pipelines for 10,000+ VIN records, boosting system efficiency to 90%+ with advanced analytics.  
-- **Graduate Teaching Assistant (UMD)** – Supported graduate courses in **Principles of Data Science** and **Algorithms for Data Science**.  
+- **Graduate Teaching Assistant (UMD)** - Supported graduate courses in **Principles of Data Science** and **Algorithms for Data Science**.  
 
 ---
 
