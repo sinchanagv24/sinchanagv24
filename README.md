@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Sinchana Gupta!
+# 🚀 Hi, I'm Sinchana!
 
 I’m an **AI & Data Science Engineer** with a Master’s in **Data Science** from the **University of Maryland, College Park** 🎓  
 I specialize in building **end-to-end AI/ML pipelines**, integrating **LLMs and agentic workflows** into enterprise systems, and deploying data-driven solutions on the cloud.
